@@ -16,10 +16,7 @@ The mini hackathon promotes teamwork and practical HTML skills from Module 01, w
 
 -   worked on education, services and footer sections. added svg graphics. added keyboard navigation. 
 
-### Name 2:
+### Jing Li:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Worked on the Header and the first two sections of the webpage.
 
-### Name 3:
-
--   Handled [specific sections], covering [specific topics or features].
